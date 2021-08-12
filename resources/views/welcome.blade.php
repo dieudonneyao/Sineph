@@ -60,7 +60,7 @@
 
                     <!--Left Col-->
                     <div class="flex flex-col w-full xl:w-1/2 justify-center lg:items-center py-2 rounded-lg">
-                        <img src="{{asset('images/LOGO.png')}}" class="w-1/3 justify-center mx-auto lg:w-1/3 py-2 bounce-top-icons">
+                        <img src="{{asset('images/LOGOSINEPH.jpg')}}" class="w-32 justify-center mx-auto lg:w-32 py-2 bounce-top-icons">
                         <h1 class="my-4 text-3xl md:text-5xl text-white font-bold leading-tight text-center slide-in-bottom-h1">AFRAN 2021</h1>
                         {{-- <p class="leading-normal text-base md:text-2xl mb-8 text-center md:text-left slide-in-bottom-subtitle">SITE EN</p> --}}
                         <hr class="bg-pink-500 border border-pink-500 shadow-md w-full mb-3 pb-1">
@@ -90,7 +90,7 @@
 
                     <!--Right Col-->
                     <div class="w-full xl:w-1/2 py-2 overflow-y-hidden">
-                        <img class="w-2/3 h-auto mx-auto shadow-lg "  src="{{asset('images/Afran2021.jpg')}}">
+                        <img class="w-2/3 h-auto mx-auto shadow-lg "  src="{{asset('images/Afran2021vf.jpg')}}">
                     </div>
                 </div>
 
